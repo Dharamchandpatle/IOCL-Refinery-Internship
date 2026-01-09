@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="[https://upload.wikimedia.org/wikipedia/commons/1/1c/Indian_Oil_Logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnnxw7YnfJXy0rgUMZ87yIvYyVU3Qu6r-AzQ&s)" alt="IOCL Logo" width="180"/> </p>
+<p align="center"><img width="259" height="194" alt="IOCL logo" src="https://github.com/user-attachments/assets/79b67f9e-540f-442d-9988-d879b0fa4a2f" /></p>
 Project Title 
 AI-Driven Smart Refinery Energy & Safety Intelligence Platform
 Organization
